@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     PlayAudio playAudio = new PlayAudio();
 
     TextView txt;
-
+// I hate it
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
